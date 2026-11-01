@@ -13,6 +13,7 @@ My roadmap and projects as I am on my way to becoming a data analytics engineer.
 - [ ] 08 CI/CD for analytics (GitHub Actions)
 - [ ] 09 Python for data work, interview style
 - [ ] 10 KPI definitions
+- [ ] 11 Working with AI
 
 ## Data
 
