@@ -6,11 +6,13 @@ My roadmap and projects as I am on my way to becoming a data analytics engineer.
 - [ ] 01 SQL: advanced queries and interview practice
 - [ ] 02 Git and GitHub
 - [ ] 03 Data modelling: star schema, bronze / silver / gold layers
-- [ ] 04 Snowflake
-- [ ] 05 dbt project: retail data warehouse
-- [ ] 06 CI/CD for analytics (GitHub Actions)
-- [ ] 07 Python for data work, interview style
-- [ ] 08 KPI definitions
+- [ ] 04 ETL pipelines: Python extract, clean, load
+- [ ] 05 Snowflake
+- [ ] 06 dbt project: retail data warehouse
+- [ ] 07 Data quality, governance and data products
+- [ ] 08 CI/CD for analytics (GitHub Actions)
+- [ ] 09 Python for data work, interview style
+- [ ] 10 KPI definitions
 
 ## How each topic is organised
 
