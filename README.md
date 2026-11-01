@@ -14,14 +14,6 @@ My roadmap and projects as I am on my way to becoming a data analytics engineer.
 - [ ] 09 Python for data work, interview style
 - [ ] 10 KPI definitions
 
-## How each topic is organised
-
-Every folder has the same three parts:
-
-- `notes.md`: the topic explained in my own words
-- practice files: queries, code or models I wrote
-- `interview.md`: questions with short answers I would give
-
 ## Data
 
 Public datasets only. No employer or confidential data.
