@@ -1,6 +1,6 @@
 # ETL with Python and pandas: notes
 
-Much of a data analyst's Python work is **ETL** (Extract, Transform, Load) and data cleaning, not machine learning.
+High amount of data analyst's Python work is **ETL** (Extract, Transform, Load) and data cleaning, not machine learning.
 
 ## Starting my workspace
 
